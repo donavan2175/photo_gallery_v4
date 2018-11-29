@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(197, 196, 196);
+}
+.searchFor {
+    width: 100%;
+    text-align: center;
+    padding: 30px;
+    margin-top: 30px;
+    margin-left: -30px;
+}
+
+input {
+    width: 35%;
+}
+
+.allPhotos {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 100px;
+    padding-top: 5px;
+}
+
+.photos {
+    flex: 20%;
+    padding: 25px;
+}
+
